@@ -1,0 +1,24 @@
+/* Header Sytles */
+header {
+  text-align: center;
+}
+
+/* Table Caption Styles */
+caption {
+  text-align: center; /* Centers the text within the table */
+  font-weight: bold; /* Optional: Makes the text bold */
+  padding: 10px 0; /* Adds spacing above and below the caption */
+}
+
+/* Table Sytles */
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+th {
+  border: 2px double black;
+  box-shadow: 2px;
+}
+td {
+  border: 2px double black;
+}
